@@ -1,0 +1,17 @@
+{
+    "short_name": "octo-idea",
+    "name": "octo-idea",
+    "start_url": "/",
+    "icons": [
+      {
+        "src": "icon-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#3367D6",
+    "description": "Sviluppo Web App Progetto Gabriele Salvo"
+}
